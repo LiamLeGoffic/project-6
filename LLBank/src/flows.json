@@ -1,0 +1,27 @@
+[
+	{
+		"type": "Credit",
+		"comment": "First credit",
+		"amount": 200,
+		"targetAccountNumber": 4,
+		"effect": false,
+		"dateOfFlow": "2024-10-15"
+	},
+	{
+		"type": "Debit",
+		"comment": "First debit",
+		"amount": 200,
+		"targetAccountNumber": 3,
+		"effect": false,
+		"dateOfFlow": "2024-10-16"
+	},
+	{
+		"type": "Transfert",
+		"comment": "First transfert",
+		"amount": 200,
+		"targetAccountNumber": 4,
+		"effect": false,
+		"dateOfFlow": "2024-10-16",
+		"issuierAccountNumber": 3
+	}
+]

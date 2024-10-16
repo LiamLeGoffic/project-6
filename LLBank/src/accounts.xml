@@ -1,0 +1,30 @@
+<accounts>
+	<account>
+		<type>CurrentAccount</type>
+		<label>XML current account 1</label>
+		<client>
+			<clientNumber>1</clientNumber>
+		</client>
+	</account>
+	<account>
+		<type>SavingsAccount</type>
+		<label>XML savings account 1</label>
+		<client>
+			<clientNumber>1</clientNumber>
+		</client>
+	</account>
+	<account>
+		<type>CurrentAccount</type>
+		<label>XML current account 2</label>
+		<client>
+			<clientNumber>2</clientNumber>
+		</client>
+	</account>
+	<account>
+		<type>SavingsAccount</type>
+		<label>XML savings account 2</label>
+		<client>
+			<clientNumber>2</clientNumber>
+		</client>
+	</account>
+</accounts>
